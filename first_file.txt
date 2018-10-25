@@ -2,3 +2,5 @@ This is my first git repo.$
 This is some more lines of code
 
 YUP it should say 3 lines added
+
+code added two more
