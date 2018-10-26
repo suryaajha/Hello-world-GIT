@@ -1,6 +1,6 @@
 This is my first git repo.$
 This is some more lines of code
 
-YUP it should say 3 lines added
+YUP it should say 3 lines added bit with more works on 4th line
 
 code added two more
